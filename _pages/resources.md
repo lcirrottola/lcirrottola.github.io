@@ -1,0 +1,6 @@
+---
+permalink: /resources/
+classes: wide
+---
+
+

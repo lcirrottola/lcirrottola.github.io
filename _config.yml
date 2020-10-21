@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LCirrottola"
+title                    : "Luca Cirrottola"
 title_separator          : "-"
 subtitle                 : #"Getting in touch during a pandemics"
 name                     : "Luca Cirrottola"
@@ -24,9 +24,9 @@ description              : #"Minimal bio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/etretat.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "LC" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Luca Cirrottola"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A **scientific computing engineer**, currently serving as _post-doctoral research fellow_ at **[INRIA Bordeaux - Sud-Ouest](https://www.inria.fr/en/centre-bordeaux-sud-ouest)** in the team **[Cardamom](https://team.inria.fr/cardamom)**. Soon to be temporarily found in the **[SED](http://sed.bordeaux.inria.fr)** team as a _research engineer_ for the **[Mmg platform](https://www.mmgtools.org)**"
-  location         : "Bordeaux (France)"
+  bio              : "**Scientific computing engineer** -- Parallel programming, meshing, computational mechanics & aerospace applications."
+  location         : "Bordeaux, France"
   email            :
   links:
     - label: "Email"
