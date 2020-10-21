@@ -3,7 +3,7 @@ permalink: /activities/
 classes: wide
 ---
 
-# Current
+# Current projects
 ## Development of the parallel mesh adaptation library [ParMmg](https://github.com/MmgTools/ParMmg){:target="_blank"}
 Open source library for parallel mesh adaptation on top of the [Mmg3d](https://github.com/MmgTools/Mmg){:target="_blank"} remesher.
 
@@ -24,5 +24,5 @@ Library to perform constant-connectivity mesh adaptation in two and three dimens
 Details on the algorithm can be found in the document:
 - [R-adaptation for unsteady compressible flow simulations in three dimensions](https://hal.inria.fr/hal-02284746/document){:target="_blank"}
 
-# Past
+# Past projects
 More details in the [CV](/cv).
