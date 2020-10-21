@@ -10,18 +10,18 @@ This page is intended to list some open resources I have routinely used in my wo
 ## Open source software for computational mechanics
 
 ### Meshing
-- Mmg tools [website](https://www.mmgtools.org), [repository](https://github.com/MmgTools)
-- ISDC toolbox [repository](https://github.com/ISCDtoolbox), with the mesh visualization software Medit [documentation1](https://hal.inria.fr/inria-00069921/document), [documentation2](https://www.ljll.math.upmc.fr/frey/logiciels/Docmedit.dir/index.html), [repository](https://github.com/ISCDtoolbox/Medit)
-- Gmsh [website](https://gmsh.info/), [repository](https://gitlab.onelab.info/gmsh/gmsh)
+- Mmg tools [website](https://www.mmgtools.org){:target="_blank"}, [repository](https://github.com/MmgTools){:target="_blank"}.
+- ISDC toolbox [repository](https://github.com/ISCDtoolbox){:target="_blank"}, with the mesh visualization software Medit [documentation1](https://hal.inria.fr/inria-00069921/document){:target="_blank"}, [documentation2](https://www.ljll.math.upmc.fr/frey/logiciels/Docmedit.dir/index.html){:target="_blank"}, [repository](https://github.com/ISCDtoolbox/Medit){:target="_blank"}.
+- Gmsh [website](https://gmsh.info/){:target="_blank"}, [repository](https://gitlab.onelab.info/gmsh/gmsh){:target="_blank"}.
 
 ### Solvers
-- Kratos Multiphysics [website](https://www.cimne.com/kratos/), [repository](https://github.com/KratosMultiphysics/Kratos)
-- FreeFEM [website](https://freefem.org/), [repository](https://github.com/FreeFem/FreeFem-sources)
-- MBDyn [website](https://www.mbdyn.org/), [repository](https://public.gitlab.polimi.it/DAER/mbdyn/-/tree/develop)
+- Kratos Multiphysics [website](https://www.cimne.com/kratos/){:target="_blank"}, [repository](https://github.com/KratosMultiphysics/Kratos){:target="_blank"}.
+- FreeFEM [website](https://freefem.org/){:target="_blank"}, [repository](https://github.com/FreeFem/FreeFem-sources){:target="_blank"}.
+- MBDyn [website](https://www.mbdyn.org/){:target="_blank"}, [repository](https://public.gitlab.polimi.it/DAER/mbdyn/-/tree/develop){:target="_blank"}.
 
 ## Programming tools
-- Git tutorials [from Atlassian](https://www.atlassian.com/git/tutorials)
-- A [useful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- Jenkins tutorials [from Inria](https://inria-ci.gitlabpages.inria.fr/doc/page/jenkins_tutorial/)
-- Valgrind debugging and profiling tools [documentation](https://www.valgrind.org/docs/)
+- Git tutorials [from Atlassian](https://www.atlassian.com/git/tutorials){:target="_blank"}.
+- A [useful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/){:target="_blank"}.
+- Jenkins tutorials [from Inria](https://inria-ci.gitlabpages.inria.fr/doc/page/jenkins_tutorial/){:target="_blank"}.
+- Valgrind debugging and profiling tools [documentation](https://www.valgrind.org/docs/){:target="_blank"}.
 
