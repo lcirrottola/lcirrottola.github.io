@@ -7,7 +7,7 @@ classes: wide
 ## Development of the parallel mesh adaptation library [ParMmg](https://github.com/MmgTools/ParMmg){:target="_blank"}
 Open source library for parallel mesh adaptation on top of the [Mmg3d](https://github.com/MmgTools/Mmg){:target="_blank"} remesher.
 
-Written in C with MPI, version-controlled with git and tested with Jenkins. Designed to meet the academic and industrial needs of the [Mmg platform](https://www.mmgtools.org){:target="_blank"} and the [ExaQUte](http://exaqute.eu){:target="_blank"} European project.
+Written in C with MPI, version-controlled with git and tested with Jenkins. Designed to meet the academic and industrial needs of the [Mmg platform](https://www.mmgtools.org){:target="_blank"} and the [ExaQUte](http://exaqute.eu){:target="_blank"} European research project.
 
 <img src="/assets/images/n1g8_my_mark_pre-P00-00_cut.png" width="400">
 <img src="/assets/images/n1g8_my_mark_post-P00-00_cut.png" width="400">
