@@ -1,0 +1,68 @@
+/* ==========================================================================
+   Dark skin
+   ========================================================================== */
+
+/* Colors */
+$modernorange: #fc970d !default;
+$moderncyan: #0d97fc !default;
+
+$base03:    #002b36 !default;
+$base02:    #073642 !default;
+$base01:    #586e75 !default;
+$base00:    #657b83 !default;
+$base0:     #839496 !default;
+$base1:     #93a1a1 !default;
+$base2:     #eee8d5 !default;
+$base3:     #fdf6e3 !default;
+$yellow:    #b58900 !default;
+$orange:    #cb4b16 !default;
+$red:       #dc322f !default;
+$magenta:   #d33682 !default;
+$violet:    #6c71c4 !default;
+$blue:      #268bd2 !default;
+$cyan:      #2aa198 !default;
+$green:     #859900 !default;
+
+$ibase03: invert($base03 );
+$ibase02: invert($base02 );
+$ibase01: invert($base01 );
+$ibase00: invert($base00 );
+$ibase0:  invert($base0  );
+$ibase1:  invert($base1  );
+$ibase2:  invert($base2  );
+$ibase3:  invert($base3  );
+$iyellow: invert($yellow );
+$iorange: invert($orange );
+$ired:    invert($red    );
+$imagenta:invert($magenta);
+$iviolet: invert($violet );
+$iblue:   invert($blue   );
+$icyan:   invert($cyan   );
+$igreen:  invert($green  );
+
+
+$background-color: #172f5e !default;/*#152b57 !default;*//*#122447 !default;*//* #1c3669 !default;*//*#2d4169 !default;*/
+$text-color: $base3 !default;/*#eaeaea !default;*/
+$primary-color:  $iblue !default;/*#00adb5 !default;*/
+$border-color: mix(#fff, $background-color, 20%) !default;
+
+$code-background-color: mix(#000, $background-color, 15%) !default;
+$code-background-color-dark: mix(#000, $background-color, 20%) !default;
+$form-background-color: mix(#000, $background-color, 15%) !default;
+$footer-background-color: mix(#000, $background-color, 30%) !default;
+
+$link-color: $iorange !default;/*mix($primary-color, $text-color, 40%) !default;*/
+$link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-visited: mix(#000, $link-color, 25%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}

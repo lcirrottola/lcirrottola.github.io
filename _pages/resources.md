@@ -1,6 +1,6 @@
 ---
 permalink: /resources/
-classes: wide
+toc: true
 ---
 
 # Some useful links

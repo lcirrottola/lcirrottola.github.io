@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
+  - title: "Activities"
     url: /activities
   - title: "Resources"
     url: /resources
