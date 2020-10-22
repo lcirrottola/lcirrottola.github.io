@@ -6,6 +6,7 @@
 $modernorange: #fc970d !default;
 $moderncyan: #0d97fc !default;
 
+/* From https://ethanschoonover.com/solarized/ */
 $base03:    #002b36 !default;
 $base02:    #073642 !default;
 $base01:    #586e75 !default;
@@ -23,6 +24,7 @@ $blue:      #268bd2 !default;
 $cyan:      #2aa198 !default;
 $green:     #859900 !default;
 
+/* The inverted colors */
 $ibase03: invert($base03 );
 $ibase02: invert($base02 );
 $ibase01: invert($base01 );
@@ -42,7 +44,7 @@ $igreen:  invert($green  );
 
 
 $background-color: #172f5e !default;/*#152b57 !default;*//*#122447 !default;*//* #1c3669 !default;*//*#2d4169 !default;*/
-$text-color: $base3 !default;/*#eaeaea !default;*/
+$text-color: #eaeaea !default;/*$base3 !default;*//*#eaeaea !default;*/
 $primary-color:  $icyan !default;/*#00adb5 !default;*/
 $border-color: mix(#fff, $background-color, 20%) !default;
 
