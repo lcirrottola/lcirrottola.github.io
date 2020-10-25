@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Luca Cirrottola"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Scientific computing programmer** -- Parallel computing, meshing, computational mechanics & aerospace applications."
+  bio              : "**Scientific computing** -- Parallel computing, meshing, computational mechanics."
   location         : "Bordeaux, France"
   email            :
   links:
