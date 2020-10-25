@@ -1,5 +1,6 @@
 ---
 permalink: /resources/
+title: ""
 toc: true
 ---
 
