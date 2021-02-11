@@ -1,5 +1,5 @@
 ---
-permalink: /activities/
+permalink: /research/
 title: ""
 toc: true
 ---

@@ -9,7 +9,9 @@ classes: wide
 
 Welcome to my personal webpage!
 
-I am currently a _post-doctoral research fellow_ at [INRIA Bordeaux - Sud-Ouest](https://www.inria.fr/en/centre-bordeaux-sud-ouest){:target="_blank"} in the team [Cardamom](https://team.inria.fr/cardamom){:target="_blank"}. Soon to be temporarily found in the [SED](http://sed.bordeaux.inria.fr){:target="_blank"} team as a _research engineer_ for the [Mmg platform](https://www.mmgtools.org){:target="_blank"}.
+I am currently a research engineer in the [SED](http://sed.bordeaux.inria.fr){:target="_blank"} team at [INRIA Bordeaux - Sud-Ouest](https://www.inria.fr/en/centre-bordeaux-sud-ouest){:target="_blank"}.
+I am _ad interim_ responsible for the development of the open source [Mmg platform](https://www.mmgtools.org){:target="_blank"} for simplicial remeshing.
 
-I am a full-time developer and maintainer of the [ParMmg](https://github.com/MmgTools/ParMmg){:target="_blank"} library and application for parallel mesh adaptation, supported by the European research project [ExaQUte](http://exaqute.eu){:target="_blank"}.
+My research interests focus on computational mechanics, more specifically on mesh adaptation for compressible flows and structural mechanics, with an inclination towards open source implementations.
+I am a maintainer of the [ParMmg](https://github.com/MmgTools/ParMmg){:target="_blank"} library and application for parallel mesh adaptation, supported by the European research project [ExaQUte](http://exaqute.eu){:target="_blank"}.
 
