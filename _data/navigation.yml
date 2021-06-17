@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research
+  - title: "Projects"
+    url: /activities
   - title: "Resources"
     url: /resources
   - title: "Curriculum Vitæ"
